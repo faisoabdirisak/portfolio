@@ -117,3 +117,36 @@ font-weight: bold;
     height: 100%;
   
 }
+/*-----------About---------*/
+.about{
+    height: 100vh;
+    width: 100%;
+   
+    
+}
+.col{
+    height: aouto;
+    width: 100%;
+    
+}
+.col-left{
+width: 400px;
+margin-left: 60px;
+padding-top: 120px;
+
+float: left;
+}
+.col-left img{
+  margin-left: 40px;
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
+.col-right{
+    width: 1000px;
+   font-size: 20px;
+    height:80vh;  
+    float: right;
+    padding: 10px;
+    font-style: italic;              ;
+}
