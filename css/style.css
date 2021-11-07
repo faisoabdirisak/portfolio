@@ -90,6 +90,9 @@ padding-bottom:10px ;
     padding: 250px 0 20px 110px;
     font-size: 3rem;
 }
+#tac{
+    color: #f79d6f;
+}
 #home-btn{
     background-color: #f79d6f;
 width: 130px;
@@ -241,3 +244,91 @@ flex-direction: column;
     font-size: 26px;
 }
 
+/*-------Contact--------*/
+.contact{
+    height: 100vh;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+.cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.col-left{
+    height: 80vh;
+    width: 400px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.map{
+    margin-top: 40px;
+}
+
+.message{
+    height: 80vh;
+    width: 600px;
+}
+.message input[type="text"], input[type="email"]{
+    width: 500px;
+    height: 40px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    border: none;
+
+}
+.message textarea{
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    border: none;
+
+}
+ #message-btn{
+    height: 30px;
+    width: 130px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: #f79d6f;
+    border: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+   
+}
+#message-btn:hover{
+    background-color:black;
+    color: white;
+    font-size: 16px;
+}
+
+.address{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+#pi {
+    float: right;
+    height: 30px;
+    width: 130px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: #f79d6f;
+    border: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+footer{
+    background-color: #f79d6f;
+
+    height: 40px;
+    text-align: center;
+}
+#fa{
+    color: cornsilk;
+}
