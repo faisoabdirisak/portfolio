@@ -220,3 +220,24 @@ flex-direction: column;
     box-shadow: 4px 5px 6px #f79d6f;
 
 }
+.pro1:hover, .pro2:hover, .pro3:hover, .pro4:hover, .pro5:hover, .pro6:hover{
+    background-color: white;
+    
+
+}
+.btn #graphy-btn,.btn #graphy1-btn, .btn #graphy2-btn, .btn #graphy3-btn, .btn #graphy4-btn, .btn #graphy5-btn{
+    background-color: #f79d6f;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.btn #graphy-btn:hover, .btn #graphy1-btn:hover, .btn #graphy2-btn:hover, .btn #graphy3-btn:hover, .btn #graphy4-btn:hover, .btn #graphy5-btn:hover{
+    background-color:black;
+    color: white;
+    font-size: 26px;
+}
+
