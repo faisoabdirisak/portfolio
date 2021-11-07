@@ -1,5 +1,5 @@
-# portofolio
-### This is a portofolio website that showcase my education background, skills job experience and my hobbies.
+# portfolio
+### This is a portfolio website that showcase my education background, skills job experience and my hobbies.
 
 ## Live link to this project's GitHub Pages.
 
@@ -16,7 +16,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This website shows my portofolio where by all my details are illustrated and listed including my background education, who i am, my skills and my hobbies.</p>
+<p>This website shows my portfolio where by all my details are illustrated and listed including my background education, who i am, my skills and my hobbies.</p>
 <img src="images/Screenshot from 2021-11-07 19-12-35.png" hieght="400px" width="400px">
 
 ## Installation
@@ -68,6 +68,7 @@ SOFTWARE.
 You can reach me through
 
 email: faisoabdirisak@gmail.com
+
 phone numbe: +254700293918
 
 
