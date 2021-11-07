@@ -150,3 +150,41 @@ float: left;
     padding: 10px;
     font-style: italic;              ;
 }
+h5{
+    text-align: center;
+}
+.education, .experience, .skills, .hobbies{
+    height: 300px;
+    background-color:white;
+    width: 400px;
+    text-align:justify;
+    margin: 5px;
+    padding: 6px;
+    border-radius: 20px;
+    box-shadow: 4px 5px 26px ;
+}
+.hobbies ul li{
+    margin: 20px;
+    margin-left: 50px;
+}
+.skills ul{
+    margin: 20px;
+
+}
+.skills #list{
+    padding-left: 60px;
+}
+.education p, .experience p{
+    padding: 10px;
+}
+
+.mid{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.mid2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
