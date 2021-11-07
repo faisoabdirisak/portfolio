@@ -3,7 +3,7 @@
 
 ## Live link to this project's GitHub Pages.
 
-### [View Live Site]()
+### [View Live Site](https://faisoabdirisak.github.io/portfolio/)
 
 
 
@@ -76,7 +76,7 @@ phone numbe: +254700293918
 
 
 
-github - 
+github - https://faisoabdirisak.github.io/portfolio/
 
 
 [Go Back to the top](#portofolio)
