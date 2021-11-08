@@ -5,7 +5,7 @@ function myFunction() {
 
 document.getElementById("graphy1-btn").addEventListener("click", mFunction);
 function mFunction() {
-  window.location.href="https://faisoabdirisak.github.io/Desktop-Filter-Application-master";
+  window.location.href="https://github.com/faisoabdirisak/Filter-Aplication";
 }
 
 document.getElementById("graphy2-btn").addEventListener("click", m2Function);
@@ -21,7 +21,7 @@ function m3Function() {
 
 document.getElementById("graphy4-btn").addEventListener("click", m4Function);
 function m4Function() {
-  window.location.href="https://faisoabdirisak.github.io/week3_id_project/";
+  window.location.href="https://faisoabdirisak.github.io/Analog-Clock/";
 }
 
 
