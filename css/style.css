@@ -20,7 +20,7 @@ h1{
     display: flex;
     flex-direction: column;
     position: relative;
-    height: 100vh;
+    height: 1000px;
     width: 100%;
     margin-bottom: 20px;
     background-color: blanchedalmond;
@@ -87,7 +87,7 @@ padding-bottom:10px ;
     height: 570px;
    
     width: 60%;
-    padding: 250px 0 20px 110px;
+    padding: 450px 0 20px 110px;
     font-size: 3rem;
 }
 #tac{
@@ -108,9 +108,9 @@ font-weight: bold;
     font-size: 20px;
 }
 .photo{
-    height: 799px;
+    height: 999px;
     width: 70%;
-   
+ 
  
    
 
@@ -122,9 +122,9 @@ font-weight: bold;
 }
 /*-----------About---------*/
 .about{
-    height: 100vh;
+    height: 1000px;
     width: 100%;
-   
+   margin-top: 150px;
     
 }
 .col{
@@ -193,9 +193,9 @@ h5{
 }
 /*projects*/
 .projects{
-    height: 100vh;
+    height: 1000px;
     width: 100%;
-   
+   margin-top: 150px;
 }
 .project{
 margin: 10px;
@@ -246,7 +246,7 @@ flex-direction: column;
 
 /*-------Contact--------*/
 .contact{
-    height: 100vh;
+    height: 1000px;
     width: 100%;
     background-color: blanchedalmond;
 }
